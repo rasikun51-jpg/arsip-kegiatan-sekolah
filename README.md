@@ -1,4 +1,4 @@
-# 📂 Dashboard Kustom Arsip & Dokumen Kepanitiaan Sekolah
+# 📂 Dashboard Kustom Arsip & Dokumen Kepanitiaan Kegiatan Sekolah
 
 Pusat dokumentasi dan arsip kegiatan sekolah digital yang modern, ringan, dan terintegrasi langsung dengan ekosistem **Google Drive** serta **Google Sheets**. Dibangun menggunakan *Single-File HTML* dan **Tailwind CSS**.
 
